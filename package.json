@@ -1,0 +1,13 @@
+{
+  "name": "btw1",
+  "version": "1.0.0",
+  "description": "Minecraft Mineflayer Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+ },
+ "dependencies":{
+   "express": "ˆ4.19.2",
+   "mineflayer": "ˆ4.20.1"
+ }
+}
